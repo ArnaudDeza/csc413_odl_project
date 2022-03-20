@@ -1,0 +1,8 @@
+data : higgs    num layers :   3       final error: 0.273339
+data : higgs    num layers :   3       0-0.05: 0.36272
+data : higgs    num layers :   3       10-15: 0.281352
+data : higgs    num layers :   3       60-80: 0.267922
+data : susy    num layers :   3       final error: 0.20141900000000001
+data : susy    num layers :   3       0-0.05: 0.22656
+data : susy    num layers :   3       10-15: 0.20254
+data : susy    num layers :   3       60-80: 0.200544

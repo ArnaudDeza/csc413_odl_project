@@ -38,7 +38,7 @@ def main(arg, idx=0):
               'activation': 'relu',
               'loss_weight': 'ave',
               'adaptive_weight': False,
-              'data': 'mnist',
+              'data': 'higgs',
               'hedge': False,
               'log': 'mnist_hedge.log'}
 

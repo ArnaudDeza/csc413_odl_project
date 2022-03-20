@@ -1,0 +1,13 @@
+python train.py -c configs/3Layers_higgs.yaml
+python train.py -c configs/3Layers_susy.yaml
+python train.py -c configs/3Layers_syn8.yaml
+python train.py -c configs/4Layers_higgs.yaml
+python train.py -c configs/4Layers_susy.yaml
+python train.py -c configs/4Layers_syn8.yaml
+python train.py -c configs/8Layers_higgs.yaml
+python train.py -c configs/8Layers_susy.yaml
+python train.py -c configs/8Layers_syn8.yaml
+python train.py -c configs/16Layers_higgs.yaml
+python train.py -c configs/16Layers_susy.yaml
+python train.py -c configs/16Layers_syn8.yaml
+
