@@ -9,9 +9,3 @@ ODL paper : https://www.ijcai.org/proceedings/2018/0369.pdf
 - Download data from google drive link in ODL repo, put all npz files in a folder called "data"
 - before activating env, modify the training script of keras as per ODL repo
 
-# Arnaud Functions:
--   Table 1: 
--   Table 1: 
--   Table 1: 
--   Table 1: 
--   Table 1: 
