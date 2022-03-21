@@ -10,4 +10,3 @@ python train.py -c configs/8Layers_syn8.yaml
 python train.py -c configs/16Layers_higgs.yaml
 python train.py -c configs/16Layers_susy.yaml
 python train.py -c configs/16Layers_syn8.yaml
-
