@@ -18,7 +18,7 @@ import time
 
 
 def get_data(config):
-    if config['data'] == 'syn8':
+    if config['data'] in ['syn8','cd1','cd2']:
         config['input_size'] = (50,)
         config['output_size'] = 2
     elif config['data'] == 'higgs':

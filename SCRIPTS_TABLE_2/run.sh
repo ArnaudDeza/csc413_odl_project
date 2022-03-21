@@ -1,5 +1,6 @@
-python train.py -c configs/2Layers_cd1.yaml
-python train.py -c configs/2Layers_cd2.yaml
+python train.py -c configs/2Layers_syn8.yaml
+python train.py -c configs/20Layers_higgs.yaml
+python train.py -c configs/20Layers_cd2.yaml
 python train.py -c configs/3Layers_cd1.yaml
 python train.py -c configs/3Layers_cd2.yaml
 python train.py -c configs/4Layers_cd1.yaml
@@ -10,11 +11,8 @@ python train.py -c configs/16Layers_cd1.yaml
 python train.py -c configs/16Layers_cd2.yaml
 python train.py -c configs/20Layers_cd1.yaml
 python train.py -c configs/20Layers_cd2.yaml
-python train.py -c configs/highway_cd1.yaml
-python train.py -c configs/highway_cd2.yaml
-python train.py -c configs/highway_higgs.yaml
-python train.py -c configs/highway_susy.yaml
-python train.py -c configs/highway_syn8.yaml
+python train.py -c configs/12Layers_higgs.yaml
+python train.py -c configs/30Layers_higgs.yaml
 python train.py -c configs/momentum_cd1.yaml
 python train.py -c configs/momentum_cd2.yaml
 python train.py -c configs/momentum_higgs.yaml
@@ -26,6 +24,9 @@ python train.py -c configs/nesterov_higgs.yaml
 python train.py -c configs/nesterov_susy.yaml
 python train.py -c configs/nesterov_syn8.yaml
 python train.py -c configs/nesterov_syn8.yaml
-python train.py -c configs/12Layers_higgs.yaml
-python train.py -c configs/30Layers_higgs.yaml
+python train.py -c configs/highway_cd1.yaml
+python train.py -c configs/highway_cd2.yaml
+python train.py -c configs/highway_higgs.yaml
+python train.py -c configs/highway_susy.yaml
+python train.py -c configs/highway_syn8.yaml
 

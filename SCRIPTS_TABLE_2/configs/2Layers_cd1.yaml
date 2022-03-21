@@ -13,4 +13,4 @@ data: cd1
 hedge: False
 model: MLP
 input_size: 28
-log: log_mlp2_cd1 
+log: log_mlp2_cd1

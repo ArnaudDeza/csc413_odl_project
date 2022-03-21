@@ -9,8 +9,8 @@ hidden_num: 100
 activation: relu 
 loss_weight: ave
 adaptive_weight: False
-data: cd1
+data: higgs
 hedge: False
 model: MLP
 input_size: 28
-log: log_mlp20_cd1
+log: log_mlp20_higgs
