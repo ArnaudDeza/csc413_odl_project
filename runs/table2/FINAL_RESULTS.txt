@@ -1,8 +1,148 @@
+data : higgs    num layers :   2       final error: 0.294053
+data : higgs    num layers :   2       0-0.05: 0.37264
+data : higgs    num layers :   2       10-15: 0.29676
+data : higgs    num layers :   2       60-80: 0.290809
 data : higgs    num layers :   3       final error: 0.273339
 data : higgs    num layers :   3       0-0.05: 0.36272
 data : higgs    num layers :   3       10-15: 0.281352
 data : higgs    num layers :   3       60-80: 0.267922
-data : susy    num layers :   3       final error: 0.20141900000000001
-data : susy    num layers :   3       0-0.05: 0.22656
-data : susy    num layers :   3       10-15: 0.20254
-data : susy    num layers :   3       60-80: 0.200544
+data : higgs    num layers :   4       final error: 0.26811280000000004
+data : higgs    num layers :   4       0-0.05: 0.36292
+data : higgs    num layers :   4       10-15: 0.277616
+data : higgs    num layers :   4       60-80: 0.261784
+data : higgs    num layers :   8       final error: 0.26863899999999996
+data : higgs    num layers :   8       0-0.05: 0.37068
+data : higgs    num layers :   8       10-15: 0.2773
+data : higgs    num layers :   8       60-80: 0.262386
+data : higgs    num layers :   16       final error: 0.27394660000000004
+data : higgs    num layers :   16       0-0.05: 0.47884
+data : higgs    num layers :   16       10-15: 0.283056
+data : higgs    num layers :   16       60-80: 0.264448
+data : higgs    num layers :   20       final error: 0.279127
+data : higgs    num layers :   20       0-0.05: 0.47224
+data : higgs    num layers :   20       10-15: 0.284768
+data : higgs    num layers :   20       60-80: 0.269165
+data : susy    num layers :   2       final error: 0.20282199999999995
+data : susy    num layers :   2       0-0.05: 0.21924
+data : susy    num layers :   2       10-15: 0.20318
+data : susy    num layers :   2       60-80: 0.202579
+data : susy    num layers :   3       final error: 0.20148339999999998
+data : susy    num layers :   3       0-0.05: 0.22132
+data : susy    num layers :   3       10-15: 0.203436
+data : susy    num layers :   3       60-80: 0.200485
+data : susy    num layers :   4       final error: 0.20126520000000003
+data : susy    num layers :   4       0-0.05: 0.22492
+data : susy    num layers :   4       10-15: 0.202296
+data : susy    num layers :   4       60-80: 0.200183
+data : susy    num layers :   8       final error: 0.2016076
+data : susy    num layers :   8       0-0.05: 0.22948
+data : susy    num layers :   8       10-15: 0.203504
+data : susy    num layers :   8       60-80: 0.199502
+data : susy    num layers :   16       final error: 0.20435080000000005
+data : susy    num layers :   16       0-0.05: 0.24772
+data : susy    num layers :   16       10-15: 0.205932
+data : susy    num layers :   16       60-80: 0.204604
+data : susy    num layers :   20       final error: 0.20563399999999998
+data : susy    num layers :   20       0-0.05: 0.26336
+data : susy    num layers :   20       10-15: 0.205004
+data : susy    num layers :   20       60-80: 0.204499
+data : syn8    num layers :   2       final error: 0.39709700000000003
+data : syn8    num layers :   2       0-0.05: 0.4302
+data : syn8    num layers :   2       10-15: 0.402312
+data : syn8    num layers :   2       60-80: 0.394167
+data : syn8    num layers :   3       final error: 0.39273800000000003
+data : syn8    num layers :   3       0-0.05: 0.4284
+data : syn8    num layers :   3       10-15: 0.399836
+data : syn8    num layers :   3       60-80: 0.388149
+data : syn8    num layers :   4       final error: 0.39149500000000004
+data : syn8    num layers :   4       0-0.05: 0.43512
+data : syn8    num layers :   4       10-15: 0.39712
+data : syn8    num layers :   4       60-80: 0.386889
+data : syn8    num layers :   8       final error: 0.3939062
+data : syn8    num layers :   8       0-0.05: 0.45268
+data : syn8    num layers :   8       10-15: 0.403984
+data : syn8    num layers :   8       60-80: 0.389617
+data : syn8    num layers :   16       final error: 0.40282260000000003
+data : syn8    num layers :   16       0-0.05: 0.48372
+data : syn8    num layers :   16       10-15: 0.410244
+data : syn8    num layers :   16       60-80: 0.394676
+data : syn8    num layers :   20       final error: 0.47639640000000005
+data : syn8    num layers :   20       0-0.05: 0.47032
+data : syn8    num layers :   20       10-15: 0.47788
+data : syn8    num layers :   20       60-80: 0.475983
+data : cd1    num layers :   2       final error: 0.4358008888888889
+data : cd1    num layers :   2       0-0.05: 0.4581777777777778
+data : cd1    num layers :   2       10-15: 0.4422
+data : cd1    num layers :   2       60-80: 0.43314444444444444
+data : cd1    num layers :   3       final error: 0.4320113333333333
+data : cd1    num layers :   3       0-0.05: 0.4572888888888889
+data : cd1    num layers :   3       10-15: 0.4359911111111111
+data : cd1    num layers :   3       60-80: 0.42956666666666665
+data : cd1    num layers :   4       final error: 0.4311666666666667
+data : cd1    num layers :   4       0-0.05: 0.4672
+data : cd1    num layers :   4       10-15: 0.43679111111111113
+data : cd1    num layers :   4       60-80: 0.42789444444444447
+data : cd1    num layers :   8       final error: 0.4329424444444444
+data : cd1    num layers :   8       0-0.05: 0.47773333333333334
+data : cd1    num layers :   8       10-15: 0.43961333333333336
+data : cd1    num layers :   8       60-80: 0.42903555555555556
+data : cd1    num layers :   16       final error: 0.4933197777777778
+data : cd1    num layers :   16       0-0.05: 0.4912888888888889
+data : cd1    num layers :   16       10-15: 0.4945733333333333
+data : cd1    num layers :   16       60-80: 0.49400555555555553
+data : cd1    num layers :   20       final error: 0.49314111111111114
+data : cd1    num layers :   20       0-0.05: 0.48693333333333333
+data : cd1    num layers :   20       10-15: 0.49578666666666665
+data : cd1    num layers :   20       60-80: 0.49299
+data : cd2    num layers :   2       final error: 0.4210815555555556
+data : cd2    num layers :   2       0-0.05: 0.44635555555555556
+data : cd2    num layers :   2       10-15: 0.4233911111111111
+data : cd2    num layers :   2       60-80: 0.41906
+data : cd2    num layers :   3       final error: 0.41606333333333334
+data : cd2    num layers :   3       0-0.05: 0.44853333333333334
+data : cd2    num layers :   3       10-15: 0.42113333333333336
+data : cd2    num layers :   3       60-80: 0.4125877777777778
+data : cd2    num layers :   4       final error: 0.41534666666666664
+data : cd2    num layers :   4       0-0.05: 0.4530666666666667
+data : cd2    num layers :   4       10-15: 0.4198355555555556
+data : cd2    num layers :   4       60-80: 0.4121977777777778
+data : cd2    num layers :   8       final error: 0.41617666666666664
+data : cd2    num layers :   8       0-0.05: 0.47475555555555554
+data : cd2    num layers :   8       10-15: 0.4220977777777778
+data : cd2    num layers :   8       60-80: 0.41285555555555553
+data : cd2    num layers :   16       final error: 0.4338088888888889
+data : cd2    num layers :   16       0-0.05: 0.4916888888888889
+data : cd2    num layers :   16       10-15: 0.487
+data : cd2    num layers :   16       60-80: 0.4195566666666667
+data : cd2    num layers :   20       final error: 0.4878917777777778
+data : cd2    num layers :   20       0-0.05: 0.48631111111111114
+data : cd2    num layers :   20       10-15: 0.4862088888888889
+data : cd2    num layers :   20       60-80: 0.48686444444444443
+data : higgs    mode :   momentum       final error: 0.27417959999999997
+data : higgs    mode :   momentum       0-0.05: 0.47396
+data : higgs    mode :   momentum       10-15: 0.288844
+data : higgs    mode :   momentum       60-80: 0.256149
+data : susy    mode :   momentum       final error: 0.20075880000000002
+data : susy    mode :   momentum       0-0.05: 0.28668
+data : susy    mode :   momentum       10-15: 0.201568
+data : susy    mode :   momentum       60-80: 0.199031
+data : syn8    mode :   momentum       final error: 0.39554480000000003
+data : syn8    mode :   momentum       0-0.05: 0.46996
+data : syn8    mode :   momentum       10-15: 0.406056
+data : syn8    mode :   momentum       60-80: 0.386635
+data : cd1    mode :   momentum       final error: 0.4368322222222222
+data : cd1    mode :   momentum       0-0.05: 0.48693333333333333
+data : cd1    mode :   momentum       10-15: 0.44079111111111113
+data : cd1    mode :   momentum       60-80: 0.42868666666666666
+data : cd1    mode :   nesterov       final error: 0.4661766666666667
+data : cd1    mode :   nesterov       0-0.05: 0.48702222222222225
+data : cd1    mode :   nesterov       10-15: 0.48463555555555554
+data : cd1    mode :   nesterov       60-80: 0.43881333333333333
+data : cd2    mode :   momentum       final error: 0.42207555555555554
+data : cd2    mode :   momentum       0-0.05: 0.48257777777777777
+data : cd2    mode :   momentum       10-15: 0.42977333333333334
+data : cd2    mode :   momentum       60-80: 0.4128688888888889
+data : cd2    mode :   nesterov       final error: 0.4622115555555556
+data : cd2    mode :   nesterov       0-0.05: 0.48373333333333335
+data : cd2    mode :   nesterov       10-15: 0.48130222222222224
+data : cd2    mode :   nesterov       60-80: 0.4537322222222222
