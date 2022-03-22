@@ -9,3 +9,9 @@ ODL paper : https://www.ijcai.org/proceedings/2018/0369.pdf
 - Download data from google drive link in ODL repo, put all npz files in a folder called "data"
 - before activating env, modify the training script of keras as per ODL repo
 
+
+# Results:
+
+Training results can be found in runs/table2/FINAL_RESULTS.txt --> rougly 45 ish models trained so far
+
+https://github.com/ArnaudDeza/csc413_odl_project/blob/main/runs/table2/FINAL_RESULTS.txt
