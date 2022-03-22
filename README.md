@@ -13,3 +13,5 @@ ODL paper : https://www.ijcai.org/proceedings/2018/0369.pdf
 # Results:
 
 Training results can be found in runs/table2/FINAL_RESULTS.txt --> rougly 45 ish models trained so far
+
+https://github.com/ArnaudDeza/csc413_odl_project/blob/main/runs/table2/FINAL_RESULTS.txt
