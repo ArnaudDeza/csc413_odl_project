@@ -15,3 +15,15 @@ ODL paper : https://www.ijcai.org/proceedings/2018/0369.pdf
 Training results can be found in runs/table2/FINAL_RESULTS.txt --> rougly 45 ish models trained so far
 
 https://github.com/ArnaudDeza/csc413_odl_project/blob/main/runs/table2/FINAL_RESULTS.txt
+
+
+## Table 3 - Our results
+Method | Layers | Higgs | Susy | Syn8
+| :---: | :---: | :---: | :---: | :---: 
+OGD | 2 | -- | --  | -- 
+OGD | 3 | -- | --  | -- 
+OGD | 4 | -- | --  | -- 
+OGD | 8 | -- | --  | -- 
+OGD | 16 | -- | --  | -- 
+OGD | 20 | -- | --  | -- 
+Hedge BP | 20 | -- | --  | -- 

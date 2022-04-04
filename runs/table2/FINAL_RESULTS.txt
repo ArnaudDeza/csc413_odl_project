@@ -122,14 +122,26 @@ data : higgs    mode :   momentum       final error: 0.27417959999999997
 data : higgs    mode :   momentum       0-0.05: 0.47396
 data : higgs    mode :   momentum       10-15: 0.288844
 data : higgs    mode :   momentum       60-80: 0.256149
+data : higgs    mode :   nesterov       final error: 0.26783159999999995
+data : higgs    mode :   nesterov       0-0.05: 0.47004
+data : higgs    mode :   nesterov       10-15: 0.284472
+data : higgs    mode :   nesterov       60-80: 0.255375
 data : susy    mode :   momentum       final error: 0.20075880000000002
 data : susy    mode :   momentum       0-0.05: 0.28668
 data : susy    mode :   momentum       10-15: 0.201568
 data : susy    mode :   momentum       60-80: 0.199031
+data : susy    mode :   nesterov       final error: 0.20072500000000004
+data : susy    mode :   nesterov       0-0.05: 0.29432
+data : susy    mode :   nesterov       10-15: 0.2022
+data : susy    mode :   nesterov       60-80: 0.198907
 data : syn8    mode :   momentum       final error: 0.39554480000000003
 data : syn8    mode :   momentum       0-0.05: 0.46996
 data : syn8    mode :   momentum       10-15: 0.406056
 data : syn8    mode :   momentum       60-80: 0.386635
+data : syn8    mode :   nesterov       final error: 0.39824479999999995
+data : syn8    mode :   nesterov       0-0.05: 0.47192
+data : syn8    mode :   nesterov       10-15: 0.407832
+data : syn8    mode :   nesterov       60-80: 0.387236
 data : cd1    mode :   momentum       final error: 0.4368322222222222
 data : cd1    mode :   momentum       0-0.05: 0.48693333333333333
 data : cd1    mode :   momentum       10-15: 0.44079111111111113
