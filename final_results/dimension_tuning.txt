@@ -1,0 +1,156 @@
+data : higgs    num layers :   4    dim :      10   final error: 0.29379239999999995
+data : higgs    num layers :   4    dim :      10   0-0.05: 0.38724
+data : higgs    num layers :   4    dim :      10   10-15: 0.298524
+data : higgs    num layers :   4    dim :      10   60-80: 0.289484
+data : higgs    num layers :   4    dim :      50   final error: 0.27370019999999995
+data : higgs    num layers :   4    dim :      50   0-0.05: 0.36996
+data : higgs    num layers :   4    dim :      50   10-15: 0.283768
+data : higgs    num layers :   4    dim :      50   60-80: 0.267741
+data : higgs    num layers :   4    dim :      100   final error: 0.2684784
+data : higgs    num layers :   4    dim :      100   0-0.05: 0.36196
+data : higgs    num layers :   4    dim :      100   10-15: 0.277876
+data : higgs    num layers :   4    dim :      100   60-80: 0.262763
+data : higgs    num layers :   4    dim :      150   final error: 0.26576180000000005
+data : higgs    num layers :   4    dim :      150   0-0.05: 0.3634
+data : higgs    num layers :   4    dim :      150   10-15: 0.274024
+data : higgs    num layers :   4    dim :      150   60-80: 0.259879
+data : higgs    num layers :   4    dim :      200   final error: 0.2658836
+data : higgs    num layers :   4    dim :      200   0-0.05: 0.36132
+data : higgs    num layers :   4    dim :      200   10-15: 0.273244
+data : higgs    num layers :   4    dim :      200   60-80: 0.259958
+data : higgs    num layers :   8    dim :      10   final error: 0.29939499999999997
+data : higgs    num layers :   8    dim :      10   0-0.05: 0.44192
+data : higgs    num layers :   8    dim :      10   10-15: 0.301428
+data : higgs    num layers :   8    dim :      10   60-80: 0.295201
+data : higgs    num layers :   8    dim :      50   final error: 0.27293619999999996
+data : higgs    num layers :   8    dim :      50   0-0.05: 0.37664
+data : higgs    num layers :   8    dim :      50   10-15: 0.281668
+data : higgs    num layers :   8    dim :      50   60-80: 0.265957
+data : higgs    num layers :   8    dim :      100   final error: 0.26764659999999996
+data : higgs    num layers :   8    dim :      100   0-0.05: 0.37168
+data : higgs    num layers :   8    dim :      100   10-15: 0.277564
+data : higgs    num layers :   8    dim :      100   60-80: 0.260788
+data : higgs    num layers :   8    dim :      150   final error: 0.26563079999999994
+data : higgs    num layers :   8    dim :      150   0-0.05: 0.3648
+data : higgs    num layers :   8    dim :      150   10-15: 0.277148
+data : higgs    num layers :   8    dim :      150   60-80: 0.258558
+data : higgs    num layers :   8    dim :      200   final error: 0.2639838
+data : higgs    num layers :   8    dim :      200   0-0.05: 0.37504
+data : higgs    num layers :   8    dim :      200   10-15: 0.275116
+data : higgs    num layers :   8    dim :      200   60-80: 0.25581
+data : higgs    num layers :   16    dim :      10   final error: 0.37153499999999995
+data : higgs    num layers :   16    dim :      10   0-0.05: 0.47
+data : higgs    num layers :   16    dim :      10   10-15: 0.307992
+data : higgs    num layers :   16    dim :      10   60-80: 0.445472
+data : higgs    num layers :   16    dim :      50   final error: 0.28599019999999997
+data : higgs    num layers :   16    dim :      50   0-0.05: 0.47636
+data : higgs    num layers :   16    dim :      50   10-15: 0.287268
+data : higgs    num layers :   16    dim :      50   60-80: 0.291705
+data : higgs    num layers :   16    dim :      150   final error: 0.2718942
+data : higgs    num layers :   16    dim :      150   0-0.05: 0.47856
+data : higgs    num layers :   16    dim :      150   10-15: 0.28086
+data : higgs    num layers :   16    dim :      150   60-80: 0.262239
+data : higgs    num layers :   16    dim :      200   final error: 0.2707402
+data : higgs    num layers :   16    dim :      200   0-0.05: 0.44664
+data : higgs    num layers :   16    dim :      200   10-15: 0.280056
+data : higgs    num layers :   16    dim :      200   60-80: 0.269331
+data : higgs    num layers :   20    dim :      10   final error: 0.47677519999999995
+data : higgs    num layers :   20    dim :      10   0-0.05: 0.4798
+data : higgs    num layers :   20    dim :      10   10-15: 0.475484
+data : higgs    num layers :   20    dim :      10   60-80: 0.476846
+data : higgs    num layers :   20    dim :      50   final error: 0.29029360000000004
+data : higgs    num layers :   20    dim :      50   0-0.05: 0.4786
+data : higgs    num layers :   20    dim :      50   10-15: 0.2938
+data : higgs    num layers :   20    dim :      50   60-80: 0.273789
+data : higgs    num layers :   20    dim :      150   final error: 0.2794152
+data : higgs    num layers :   20    dim :      150   0-0.05: 0.4778
+data : higgs    num layers :   20    dim :      150   10-15: 0.288236
+data : higgs    num layers :   20    dim :      150   60-80: 0.277755
+data : higgs    num layers :   20    dim :      200   final error: 0.27632159999999995
+data : higgs    num layers :   20    dim :      200   0-0.05: 0.48196
+data : higgs    num layers :   20    dim :      200   10-15: 0.285204
+data : higgs    num layers :   20    dim :      200   60-80: 0.269176
+data : cd1    num layers :   4    dim :      10   final error: 0.43704822222222217
+data : cd1    num layers :   4    dim :      10   0-0.05: 0.474
+data : cd1    num layers :   4    dim :      10   10-15: 0.43916
+data : cd1    num layers :   4    dim :      10   60-80: 0.4355588888888889
+data : cd1    num layers :   4    dim :      50   final error: 0.43367622222222224
+data : cd1    num layers :   4    dim :      50   0-0.05: 0.4733777777777778
+data : cd1    num layers :   4    dim :      50   10-15: 0.43623555555555554
+data : cd1    num layers :   4    dim :      50   60-80: 0.4317211111111111
+data : cd1    num layers :   4    dim :      150   final error: 0.4309791111111111
+data : cd1    num layers :   4    dim :      150   0-0.05: 0.46671111111111113
+data : cd1    num layers :   4    dim :      150   10-15: 0.43724
+data : cd1    num layers :   4    dim :      150   60-80: 0.42696
+data : cd1    num layers :   4    dim :      200   final error: 0.4302491111111111
+data : cd1    num layers :   4    dim :      200   0-0.05: 0.46546666666666664
+data : cd1    num layers :   4    dim :      200   10-15: 0.43620444444444445
+data : cd1    num layers :   4    dim :      200   60-80: 0.4272811111111111
+data : cd1    num layers :   8    dim :      10   final error: 0.4415904444444444
+data : cd1    num layers :   8    dim :      10   0-0.05: 0.4938222222222222
+data : cd1    num layers :   8    dim :      10   10-15: 0.44076
+data : cd1    num layers :   8    dim :      10   60-80: 0.4380177777777778
+data : cd1    num layers :   8    dim :      50   final error: 0.4342271111111111
+data : cd1    num layers :   8    dim :      50   0-0.05: 0.4760888888888889
+data : cd1    num layers :   8    dim :      50   10-15: 0.43965777777777776
+data : cd1    num layers :   8    dim :      50   60-80: 0.43080666666666667
+data : cd1    num layers :   8    dim :      150   final error: 0.43269888888888886
+data : cd1    num layers :   8    dim :      150   0-0.05: 0.4896888888888889
+data : cd1    num layers :   8    dim :      150   10-15: 0.43734666666666666
+data : cd1    num layers :   8    dim :      150   60-80: 0.42886444444444444
+data : cd1    num layers :   8    dim :      200   final error: 0.43202822222222226
+data : cd1    num layers :   8    dim :      200   0-0.05: 0.47542222222222225
+data : cd1    num layers :   8    dim :      200   10-15: 0.43832
+data : cd1    num layers :   8    dim :      200   60-80: 0.42779333333333336
+data : cd1    num layers :   16    dim :      10   final error: 0.49269288888888885
+data : cd1    num layers :   16    dim :      10   0-0.05: 0.5000888888888889
+data : cd1    num layers :   16    dim :      10   10-15: 0.4919688888888889
+data : cd1    num layers :   16    dim :      10   60-80: 0.4924677777777778
+data : cd1    num layers :   16    dim :      50   final error: 0.44927688888888884
+data : cd1    num layers :   16    dim :      50   0-0.05: 0.4915111111111111
+data : cd1    num layers :   16    dim :      50   10-15: 0.4936
+data : cd1    num layers :   16    dim :      50   60-80: 0.43717666666666666
+data : cd1    num layers :   16    dim :      150   final error: 0.44565444444444446
+data : cd1    num layers :   16    dim :      150   0-0.05: 0.49622222222222223
+data : cd1    num layers :   16    dim :      150   10-15: 0.4839733333333333
+data : cd1    num layers :   16    dim :      150   60-80: 0.43734222222222224
+data : cd1    num layers :   16    dim :      200   final error: 0.44273666666666667
+data : cd1    num layers :   16    dim :      200   0-0.05: 0.4961333333333333
+data : cd1    num layers :   16    dim :      200   10-15: 0.4470133333333333
+data : cd1    num layers :   16    dim :      200   60-80: 0.43699444444444446
+data : cd1    num layers :   20    dim :      10   final error: 0.4929755555555555
+data : cd1    num layers :   20    dim :      10   0-0.05: 0.4936888888888889
+data : cd1    num layers :   20    dim :      10   10-15: 0.49350666666666665
+data : cd1    num layers :   20    dim :      10   60-80: 0.49286555555555556
+data : cd1    num layers :   20    dim :      50   final error: 0.49326088888888886
+data : cd1    num layers :   20    dim :      50   0-0.05: 0.49475555555555556
+data : cd1    num layers :   20    dim :      50   10-15: 0.49461777777777777
+data : cd1    num layers :   20    dim :      50   60-80: 0.49273
+data : cd1    num layers :   20    dim :      150   final error: 0.4928813333333333
+data : cd1    num layers :   20    dim :      150   0-0.05: 0.4944
+data : cd1    num layers :   20    dim :      150   10-15: 0.48921333333333333
+data : cd1    num layers :   20    dim :      150   60-80: 0.49317
+data : cd1    num layers :   20    dim :      200   final error: 0.4927973333333333
+data : cd1    num layers :   20    dim :      200   0-0.05: 0.5010222222222223
+data : cd1    num layers :   20    dim :      200   10-15: 0.4944311111111111
+data : cd1    num layers :   20    dim :      200   60-80: 0.4926888888888889
+data : cd1    num layers :   hbp    dim :      10   final error: 0.43577022222222217
+data : cd1    num layers :   hbp    dim :      10   0-0.05: 0.4804
+data : cd1    num layers :   hbp    dim :      10   10-15: 0.4367111111111111
+data : cd1    num layers :   hbp    dim :      10   60-80: 0.4341477777777778
+data : cd1    num layers :   hbp    dim :      50   final error: 0.4291046666666667
+data : cd1    num layers :   hbp    dim :      50   0-0.05: 0.4689333333333333
+data : cd1    num layers :   hbp    dim :      50   10-15: 0.4347288888888889
+data : cd1    num layers :   hbp    dim :      50   60-80: 0.4257722222222222
+data : cd1    num layers :   hbp    dim :      100   final error: 0.42862488888888894
+data : cd1    num layers :   hbp    dim :      100   0-0.05: 0.4651111111111111
+data : cd1    num layers :   hbp    dim :      100   10-15: 0.43536
+data : cd1    num layers :   hbp    dim :      100   60-80: 0.42489
+data : cd1    num layers :   hbp    dim :      150   final error: 0.4277213333333333
+data : cd1    num layers :   hbp    dim :      150   0-0.05: 0.46902222222222223
+data : cd1    num layers :   hbp    dim :      150   10-15: 0.43251555555555554
+data : cd1    num layers :   hbp    dim :      150   60-80: 0.42432444444444445
+data : cd1    num layers :   hbp    dim :      200   final error: 0.4273228888888889
+data : cd1    num layers :   hbp    dim :      200   0-0.05: 0.4656888888888889
+data : cd1    num layers :   hbp    dim :      200   10-15: 0.43204444444444445
+data : cd1    num layers :   hbp    dim :      200   60-80: 0.4242622222222222
