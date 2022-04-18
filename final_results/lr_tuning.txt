@@ -222,6 +222,7 @@ data : cd1    num layers :   20    lr :      1   final error: 0.4994039999999999
 data : cd1    num layers :   20    lr :      1   0-0.05: 0.4981333333333333
 data : cd1    num layers :   20    lr :      1   10-15: 0.4995777777777778
 data : cd1    num layers :   20    lr :      1   60-80: 0.49895
+old
 data : cd1    num layers :   hbp    lr :      1e-06   final error: 0.4918462222222222
 data : cd1    num layers :   hbp    lr :      1e-06   0-0.05: 0.5144
 data : cd1    num layers :   hbp    lr :      1e-06   10-15: 0.4915688888888889
@@ -234,3 +235,33 @@ data : cd1    num layers :   hbp    lr :      0.0001   final error: 0.4362704444
 data : cd1    num layers :   hbp    lr :      0.0001   0-0.05: 0.49764444444444444
 data : cd1    num layers :   hbp    lr :      0.0001   10-15: 0.43948444444444446
 data : cd1    num layers :   hbp    lr :      0.0001   60-80: 0.4318266666666667
+new
+
+data : cd1    num layers :   hbp    lr :      1e-06   final error: 0.4918462222222222
+data : cd1    num layers :   hbp    lr :      1e-06   0-0.05: 0.5144
+data : cd1    num layers :   hbp    lr :      1e-06   10-15: 0.4915688888888889
+data : cd1    num layers :   hbp    lr :      1e-06   60-80: 0.48462555555555553
+data : cd1    num layers :   hbp    lr :      1e-05   final error: 0.47041711111111106
+data : cd1    num layers :   hbp    lr :      1e-05   0-0.05: 0.5135555555555555
+data : cd1    num layers :   hbp    lr :      1e-05   10-15: 0.48633333333333334
+data : cd1    num layers :   hbp    lr :      1e-05   60-80: 0.4597922222222222
+data : cd1    num layers :   hbp    lr :      0.0001   final error: 0.4362704444444444
+data : cd1    num layers :   hbp    lr :      0.0001   0-0.05: 0.49764444444444444
+data : cd1    num layers :   hbp    lr :      0.0001   10-15: 0.43948444444444446
+data : cd1    num layers :   hbp    lr :      0.0001   60-80: 0.4318266666666667
+data : cd1    num layers :   hbp    lr :      0.001   final error: 0.42900644444444447
+data : cd1    num layers :   hbp    lr :      0.001   0-0.05: 0.46657777777777776
+data : cd1    num layers :   hbp    lr :      0.001   10-15: 0.4338488888888889
+data : cd1    num layers :   hbp    lr :      0.001   60-80: 0.42490666666666665
+data : cd1    num layers :   hbp    lr :      0.01   final error: 0.42791111111111113
+data : cd1    num layers :   hbp    lr :      0.01   0-0.05: 0.47217777777777775
+data : cd1    num layers :   hbp    lr :      0.01   10-15: 0.43622222222222223
+data : cd1    num layers :   hbp    lr :      0.01   60-80: 0.42497
+data : cd1    num layers :   hbp    lr :      0.1   final error: 0.46622600000000003
+data : cd1    num layers :   hbp    lr :      0.1   0-0.05: 0.4804
+data : cd1    num layers :   hbp    lr :      0.1   10-15: 0.4608977777777778
+data : cd1    num layers :   hbp    lr :      0.1   60-80: 0.47196
+data : cd1    num layers :   hbp    lr :      1   final error: 0.4968622222222222
+data : cd1    num layers :   hbp    lr :      1   0-0.05: 0.4981333333333333
+data : cd1    num layers :   hbp    lr :      1   10-15: 0.49694666666666665
+data : cd1    num layers :   hbp    lr :      1   60-80: 0.4964355555555556
