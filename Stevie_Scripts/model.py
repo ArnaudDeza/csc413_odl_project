@@ -90,14 +90,7 @@ class MyCallback(Callback):
         else:
             self.acc.append(logs.get('acc'))
         losses = [logs[name] for name in self.names]
-        '''
-        for k in logs.keys():
-            if k not in self.logs.keys():
-                self.logs[k] = [list_convert(logs[k])]
-            else:
-                self.logs[k].append(list_convert(logs[k]))
-        self.logs['weights'].append(list_convert(self.weights))
-        '''
+     
         
         if self.hedge:
 
@@ -122,17 +115,4 @@ class MyCallback(Callback):
             self.weights = alpha 
     def on_batch_begin(self, epoch, logs={}):
         self.model.holder = (self.weights)
-    '''
-    def on_train_end(self, logs = {}):
-        with open(self.log_name, 'w') as f:
-            keys = sorted(self.logs.keys())
-            f.write(' '.join(str(k) for k in keys) + '\n')
-            L = len(self.logs[keys[0]])
-            for j in range(L):
-                for k in keys:
-                    if k == 'weights':
-                        f.write('[' + ','.join(str(ww) for ww in self.logs[k][j]) + ']')
-                    else:
-                        f.write(str(self.logs[k][j]) + ' ')
-                f.write('\n')
-    '''
+   
