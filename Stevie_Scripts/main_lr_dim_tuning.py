@@ -108,36 +108,13 @@ def main(arg, idx=0):
       os.mkdir("{}/{}".format(base_folder,"learning_rate"))
     except:
       pass
-  
-  
-  
-  
-  
-  
-      
     (X_train, Y_train, _) = load("higgs")
-        
-        
-        
-    X_train = X_train[:300]
-    Y_train = Y_train[:300]
-    
-    
-    
-    
-    
-    
-    
-    
-    
+      
     
     hidden_dim = [10,50,100,150,200]
     lrs = [1e-6,1e-5,0.0001,0.001,0.01,0.1,1]
     
-    
-    
-    
-    
+   
     
     for tuning_lr in [False, True]:
         if tuning_lr == False:
@@ -165,10 +142,6 @@ def main(arg, idx=0):
                 model.compile(optimizer = optim, loss = loss_dict, hedge = config['hedge'],loss_weights = loss_weights, metrics = ['accuracy'])
                 model.fit(in_dict, out_dict, nb_epoch = config['nb_epoch'], batch_size = config['batch_size'], callbacks=[my_callback])
                 
-                    
-                    
-                    
-                    
                 cumAcc, cumLoss = np.cumsum(my_callback.acc),np.cumsum(my_callback.l)
                 
                 indexOfAcc,indexOfLoss =  np.arange(len(cumAcc))+1,np.arange(len(cumLoss))+1
@@ -211,10 +184,6 @@ def main(arg, idx=0):
                 model.compile(optimizer = optim, loss = loss_dict, hedge = config['hedge'],loss_weights = loss_weights, metrics = ['accuracy'])
                 model.fit(in_dict, out_dict, nb_epoch = config['nb_epoch'], batch_size = config['batch_size'], callbacks=[my_callback])
                 
-                    
-                    
-                    
-                    
                 cumAcc, cumLoss = np.cumsum(my_callback.acc),np.cumsum(my_callback.l)
                 
                 indexOfAcc,indexOfLoss =  np.arange(len(cumAcc))+1,np.arange(len(cumLoss))+1
@@ -232,9 +201,7 @@ def main(arg, idx=0):
                 np.save("{}/lr_{}_acc_per_itter.npy".format(curr_folder,lr_),my_callback.acc)
                 np.save("{}/lr_{}_loss_per_itter.npy".format(curr_folder,lr_),my_callback.l)
         
-     
-        
+   
     
 if __name__ == '__main__':
-    #for i in range(5):
     my_callback = main(sys.argv[1:], 0)
